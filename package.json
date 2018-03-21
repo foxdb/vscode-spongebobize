@@ -4,6 +4,10 @@
     "description": "Sponge Bob Casing Formatter",
     "version": "0.0.1",
     "publisher": "foxdb",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/foxdb/vscode-spongebobize.git"
+    },
     "engines": {
         "vscode": "^1.21.0"
     },
