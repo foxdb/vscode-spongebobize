@@ -4,9 +4,12 @@
 
 Adds a `Change case sPOnGeBOb - Spongebobize` command to your editor.
 
+![screencast](./res/spongebobize.gif)
+
 ## Requirements
 
-None.
+- VS Code
+- Living under the sea
 
 ## Extension Settings
 
@@ -17,3 +20,7 @@ None.
 None, yet!
 
 ## Release Notes
+
+### 0.0.2
+
+- Added a .gif, beCaUSE gifs are impOrTANt.
