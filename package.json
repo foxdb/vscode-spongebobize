@@ -2,11 +2,11 @@
     "name": "spongebobize",
     "displayName": "spongebobize",
     "description": "Sponge Bob Casing Formatter",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "foxdb",
-    "repository" : {
-        "type" : "git",
-        "url" : "https://github.com/foxdb/vscode-spongebobize.git"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/foxdb/vscode-spongebobize.git"
     },
     "engines": {
         "vscode": "^1.21.0"
